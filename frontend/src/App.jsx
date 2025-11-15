@@ -18,7 +18,7 @@ function App() {
           <main className="main-content">
             <div Class="home-page">
               <h2>Gestión de peliculas y series </h2>
-              <span>Hecho por Tito Pérez y Alan Moreira</span>
+              <span>Hecho por Tito Pérez y Alan Moreira Siuu</span>
             </div>
             <Routes>
               <Route path="/" element={<Home />} />
