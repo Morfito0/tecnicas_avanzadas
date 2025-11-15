@@ -16,8 +16,8 @@ function App() {
         <div className="App">
           <Navbar />
           <main className="main-content">
-            <div Class="home-page">
-              <h2>Gestión de peliculas y series </h2>
+            <div className="home-page">
+              <h2>Gestión de películas, series y música</h2>
               <span>Hecho por Tito Pérez y Alan Moreira Siuu</span>
             </div>
             <Routes>
